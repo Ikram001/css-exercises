@@ -1,0 +1,18 @@
+.oddclass{
+    background-color: rgb(248, 199, 207);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#evenid {
+    color: rgb(86, 86, 244);
+    font-size: 36px;
+}
+.three {
+    font-size: 24px;
+    background-color: rgb(248, 199, 207);
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(122, 246, 122);
+}
